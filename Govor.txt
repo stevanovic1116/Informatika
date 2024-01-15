@@ -1,0 +1,6 @@
+Vladimir Stevanović 158-2022
+Naziv projekta ,,Aplikacija za prodavnicu sportske opreme LAZONE"
+Ostali saučesnici Sava Simic 012-2022 i Denis Gajic
+Ja lično sam radio najviše na IDF0, zajedno smo svi radili SSA i Delphi i sastajali se medjusobno da radimo
+Ispravku testa sam vam poslao ranije trebalo bi, usled problema sa računarom i svega izbrisanog sa diska nemam te fajlove u računaru
+Primedbe nemam
